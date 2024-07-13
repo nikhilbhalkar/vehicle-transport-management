@@ -1,4 +1,4 @@
-# Vehicle Transport Management
+# Vehicle Transport Management - GAMANIKA
 
 Vehicle Transport Management is a web portal designed to optimize vehicle transportation by connecting vehicle owners with users looking for transportation services. It allows vehicle owners to post their availability for trips, specifying details such as origin, destination, and rental costs. Users can search for available vehicles based on their location, communicate with vehicle owners via a chat section, and navigate using maps.
 
